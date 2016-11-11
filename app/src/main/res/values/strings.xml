@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitJson</string>
+    <string name="string_click_to_load">Hello world! Now Android</string>
+    <string name="string_some_thing_wrong">Fail</string>
+    <string name="string_internet_connection_not_available">Inet ne dostupen</string>
+    <string name="string_getting_json_title">Wait</string>
+    <string name="string_getting_json_message">Get informations</string>
+</resources>
